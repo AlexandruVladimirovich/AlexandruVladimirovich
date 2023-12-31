@@ -15,7 +15,7 @@ Hello! I'm Adomnitei Alex, a frontend developer specializing in React. Welcome t
 ## Contact 📬
 
 - 📧 Email: AlexandruVladimirovich@gmail.com
-- 💬 LinkedIn: https://www.upwork.com/freelancers/~01ea4b0e285422eaf6
+- 💬 LinkedIn: www.linkedin.com/in/alexandru-adomnitei-1844272a7
 
 ## Acknowledgments 🙌
 
