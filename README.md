@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-Hello! I'm [Your Name], a frontend developer specializing in React. Welcome to my personal GitHub page, where I share my experience and projects.
+Hello! I'm Adomnitei Alex, a frontend developer specializing in React. Welcome to my personal GitHub page, where I share my experience and projects.
 
 ## Education
 
